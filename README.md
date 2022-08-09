@@ -58,6 +58,8 @@ Keep in mind the following :
 
 ### Guides
 
+:small_blue_diamond: [Stable Diffusion
+Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Harts7cEGEPAtmWGvl62yJHByPE0ZI/edit)<br>
 :small_blue_diamond: [SD Launch Presentation](https://www.youtube.com/watch?v=EqTLkt-Ycwo)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
@@ -67,9 +69,9 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 ### Modifiers
 :small_blue_diamond: [CFG modifier studies](https://docs.google.com/spreadsheets/d/1SYQhyJaKkkY0cmPd0WQvPwEX188l5FZxzukkC7IQDw4/htmlview)<br>
 :small_blue_diamond: [Sampler studies](https://docs.google.com/spreadsheets/d/1LBsL0GcCTudXx8X0LjnD-ja6udyq-RMXBFuJG9fSvpA/htmlview)<br>
-:small_blue_diamond: [Iban's image size animation study](https://twitter.com/1ban3gaNa/status/1556987264571506690)<br>
-:small_blue_diamond: [ESoS' image size study](https://twitter.com/endlesscofstars/status/1556816377964425217)<br>
-:small_blue_diamond: [ESoS' steps & sampler study](https://twitter.com/endlesscofstars/status/1556457377305505793)<br>
+:small_blue_diamond: [Iban's Image size animation study](https://twitter.com/1ban3gaNa/status/1556987264571506690)<br>
+:small_blue_diamond: [ESoS' Image size study](https://twitter.com/endlesscofstars/status/1556816377964425217)<br>
+:small_blue_diamond: [ESoS' Steps & Sampler study](https://twitter.com/endlesscofstars/status/1556457377305505793)<br>
 :small_blue_diamond: [ESoS' CFG study](https://twitter.com/endlesscofstars/status/1556290783992418304)<br>
 :small_blue_diamond: [Chris Allen's CFG animation study](https://twitter.com/zippy731/status/1556821468184338433)<br>
 
@@ -77,8 +79,8 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview)<br>
 
 ### Misc
-:small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)
-
+:small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
+:small_blue_diamond: [Stable Diffusion Prompt Weighting study](https://drive.google.com/file/d/111p6ObWFFKo1aZbuiIyGRZI4fBMHtN6s/view)<br>
 
 ## Art style/Artist lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
