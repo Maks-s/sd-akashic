@@ -23,7 +23,8 @@ As Stable Diffusion is still in beta and subject to lots of changes, the Records
 ## :notebook_with_decorative_cover: Table of Contents
 - **[General](#general-informations-toc)**
 - **[Studies](#studies-toc)**
-- **[Art style/Artist/Keyword lists](#art-styleartistkeyword-lists-toc)**
+- **[Art style/Artist lists](#art-styleartist-lists-toc)**
+- **[Keyword list](#keyword-lists-toc)**
 - **[Misc](#misc-toc)**
 - **[Prompts](#prompts-toc)**
 
@@ -75,23 +76,26 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview)<br>
 
+### Misc
+:small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)
+
 
 ## Art style/Artist lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
-:small_blue_diamond: [Suburban House, Art styles](TODO: SUBURBAN_HOUSE)<br>
+:small_blue_diamond: [Suburban House, Art styles](https://github.com/Maks-s/sd-akashic/blob/master/img/suburban-house.png)<br>
 :small_blue_diamond: [Stable Diffusion Artist Studies](https://proximacentaurib.notion.site/e2537cbf42c34b7e9a9a4126f81dfd0d)<br>
 :small_blue_diamond: [SD Artist Collection](https://sgreens.notion.site/sgreens/4ca6f4e229e24da6845b6d49e6b08ae7)<br>
-:small_blue_diamond: [Artists, Keywords, Art styles known to work with text to image](https://docs.google.com/document/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA/edit)<br>
 
 ## Keyword lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
+:small_blue_diamond: [Artists, Keywords, Art styles known to work with text to image](https://docs.google.com/document/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA/edit)<br>
 :small_orange_diamond: [Offhand's Disco Diffusion Prompt Keywords](https://docs.google.com/spreadsheets/d/1j7zaDi_PkndizQ2pL8B_yMcwfKUdE6tSMhL31bYtJNs/htmlview)
 
 ## Misc [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
 :small_blue_diamond: Valid resolutions (width/height) : `64, 128, 192, 256, 320, 384, 448, 512, 576, 640, 704, 768, 832, 896, 960, 1024, 1088, 1152, 1216, 1280, 1344, 1408, 1472, 1536, 1600, 1664, 1728, 1792, 1856, 1920, 1984, 2048`<br>
 :small_blue_diamond: 16:9 resolutions : `-W 512 -H 288`, `-W 1024 -H 576`<br>
-:small_red_triangle: [Camera distance terms](TODO: CAMERA_DISTANCE_TERMS)<br>
+:small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
 
 ## Prompts [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 Here's a list of quick prompts to get you started in the world of Stable Diffusion
