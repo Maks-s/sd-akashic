@@ -21,29 +21,29 @@ This repository is a collection of studies, art styles, prompts and other useful
 As Stable Diffusion is still in beta and subject to lots of changes, the Records will often change to reflect new information.
 
 ## :notebook_with_decorative_cover: Table of Contents
-- **[General](#general-informations-toc)**
+- **[General](#general-information-toc)**
 - **[Studies](#studies-toc)**
 - **[Art style/Artist lists](#art-styleartist-lists-toc)**
 - **[Keyword list](#keyword-lists-toc)**
 - **[Misc](#misc-toc)**
 - **[Prompts](#prompts-toc)**
 
-## General informations [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
+## General information [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
 ### The Records
-SD is brand new, as such, not many ressources exist which are solely based on it.<br>
-To differenciate between other AI imagery tools and SD, the Records will use the following nomenclature :
+SD is brand new. As such, not many resources exist which are solely based on it.<br>
+To differentiate between other AI imagery tools and SD, the Records will use the following nomenclature :
 
 <p>
-:small_blue_diamond: Ressource based on SD<br>
-:small_orange_diamond: Ressource based on other AI imagery<br>
-:small_red_triangle: Ressource not based on any AI imagery (such as photography terms)<br>
+:small_blue_diamond: Resource based on SD<br>
+:small_orange_diamond: Resource based on other AI imagery<br>
+:small_red_triangle: Resource not based on any AI imagery (such as photography terms)<br>
 </p>
 
 ### Standard Diffusion
 
 To use SD, you need to send a message in a channel labeled #dream-N (N being a number between 1 and 50).<br>
-Your message should be structured as such : `!dream "<prompt>"`
+Your message should be structured like this : `!dream "<prompt>"`
 
 Keep in mind the following :
 - Your prompt must be 77 tokens or less, anything above will be silently ignored
@@ -67,7 +67,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 ### Modifiers
 :small_blue_diamond: [CFG modifier studies](https://docs.google.com/spreadsheets/d/1SYQhyJaKkkY0cmPd0WQvPwEX188l5FZxzukkC7IQDw4/htmlview)<br>
 :small_blue_diamond: [Sampler studies](https://docs.google.com/spreadsheets/d/1LBsL0GcCTudXx8X0LjnD-ja6udyq-RMXBFuJG9fSvpA/htmlview)<br>
-:small_blue_diamond: [Iban's image size study animation](https://twitter.com/1ban3gaNa/status/1556987264571506690)<br>
+:small_blue_diamond: [Iban's image size animation study](https://twitter.com/1ban3gaNa/status/1556987264571506690)<br>
 :small_blue_diamond: [ESoS' image size study](https://twitter.com/endlesscofstars/status/1556816377964425217)<br>
 :small_blue_diamond: [ESoS' steps & sampler study](https://twitter.com/endlesscofstars/status/1556457377305505793)<br>
 :small_blue_diamond: [ESoS' CFG study](https://twitter.com/endlesscofstars/status/1556290783992418304)<br>
