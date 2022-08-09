@@ -74,10 +74,11 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [ESoS' Steps & Sampler study](https://twitter.com/endlesscofstars/status/1556457377305505793)<br>
 :small_blue_diamond: [ESoS' CFG study](https://twitter.com/endlesscofstars/status/1556290783992418304)<br>
 :small_blue_diamond: [Chris Allen's CFG animation study](https://twitter.com/zippy731/status/1556821468184338433)<br>
+:small_blue_diamond: [Localstarlight's CFG animation study](https://github.com/Maks-s/sd-akashic/blob/master/img/localstarlight-cfg-animation-study.gif) (localstarlight#3529)<br>
 
 ### Keywords
-:small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview)<br>
-:small_blue_diamond: [Park bench study](https://docs.google.com/spreadsheets/d/1WCNQPNa56ni_S4y82bdr5xbJsBM7_VmTcioMizxRPPA/htmlview)<br>
+:small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
+:small_blue_diamond: [Park bench study](https://docs.google.com/spreadsheets/d/1WCNQPNa56ni_S4y82bdr5xbJsBM7_VmTcioMizxRPPA/htmlview) (burnin#2452)<br>
 
 ### Misc
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
