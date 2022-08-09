@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>"Sic itur ad astra"</i><br><br>
-  <b>A compendium of informations regarding Stable Diffusion (SD)</b>
+  <b>A compendium of information regarding Stable Diffusion (SD)</b>
 </p>
 
 <p align="center">
