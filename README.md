@@ -56,7 +56,7 @@ Keep in mind the following :
 - Same prompt, same seed, same modifiers will end with the same result
 - To make variations of an image, it's recommended to keep the seed and slightly alter the prompt / modifiers
 
-### Guidebooks
+### Guides
 
 :small_blue_diamond: [SD Launch Presentation](https://www.youtube.com/watch?v=EqTLkt-Ycwo)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
