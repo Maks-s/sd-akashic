@@ -40,7 +40,7 @@ To differentiate between other AI imagery tools and SD, the Records will use the
 :small_red_triangle: Resource not based on any AI imagery (such as photography terms)<br>
 </p>
 
-### Standard Diffusion
+### Stable Diffusion
 
 To use SD, you need to send a message in a channel labeled #dream-N (N being a number between 1 and 50).<br>
 Your message should be structured like this : `!dream "<prompt>"`
