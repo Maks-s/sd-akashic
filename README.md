@@ -63,6 +63,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Launch Presentation](https://www.youtube.com/watch?v=EqTLkt-Ycwo)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 :small_blue_diamond: [Creating cute animals with SD](https://youtu.be/vzV_V4AYPAA)<br>
+:small_blue_diamond: [Exactly How Stable Diffusion Generates Art](https://youtu.be/a_kH32gWm2I)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
