@@ -50,6 +50,7 @@ Keep in mind the following :
 - Your prompt is case insensitive
 - There's about 30,000 tokens understood by the AI, this means it won't know about some weird word unused since the 1600s
 - A token is roughly a word, a punctuation, or a Unicode character
+- You can see how many tokens were used by adding `-t` after / before your prompt
 - Don't do prompts that would make your mother ashamed
 - Guns, war, blood, historical events and celebrities are OK
 - Nude big titty goth gf, gory decapitation are not. Use your own GPU.
