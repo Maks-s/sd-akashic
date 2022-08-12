@@ -46,7 +46,7 @@ To use SD, you need to send a message in a channel labeled #dream-N (N being a n
 Your message should be structured like this : `!dream "<prompt>"`
 
 Keep in mind the following :
-- Your prompt must be 77 tokens or less, anything above will be silently ignored
+- Your prompt must be 75 tokens or less, anything above will result in "prompt truncated after tokenization"
 - Your prompt is case insensitive
 - There's about 30,000 tokens understood by the AI, this means it won't know about some weird word unused since the 1600s
 - A token is roughly a word, a punctuation, or a Unicode character
