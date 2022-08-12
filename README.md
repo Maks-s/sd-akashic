@@ -118,4 +118,7 @@ Here's a list of quick prompts to get you started in the world of Stable Diffusi
 :small_blue_diamond: GTA V cover character : `[subject] in GTA V, cover art by Stephen Bliss, artstation`<br>
 :small_blue_diamond: Quick photorealism (NOP#1337) : `[prompt], Canon EOS R3, f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame`<br>
 :small_blue_diamond: Age changer (richservo#8465) : `DSLR photo portrait still of [age] year old age [age] [person] at age [age]!!!, 85mm f1.8`<br>
+:small_blue_diamond: Film character (richservo#8465) : `film still of [character] [action] in [movie], 4k`<br>
+:small_blue_diamond: Real life cartoon character (richservo#8465) : `portrait photo still of real life [character], 8k, 85mm f1.8`<br>
+:small_blue_diamond: Dish picture (richservo#8465) : `DSLR food photograph of [dish description], 85mm f1.8`<br>
 
