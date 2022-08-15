@@ -94,7 +94,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Punctuation study](https://arkitecc-prompt-study.notion.site/adecfbad9c7c49ddb0eba8795d96efd4)<br>
 :small_blue_diamond: [Secondary artist study](https://www.youtube.com/watch?v=-P15nYxRQJg)<br>
 :small_blue_diamond: [Prompt permutation study](https://erucipe.notion.site/Prompt-permutation-study-1b6c569f6218445f8a1d4598930fed09)<br>
-:small_blue_diamond: [Artist order study](https://www.figma.com/proto/LOtGvO8x6KZFQclXBGLxUb/Stable-Diffusion-test?scaling=scale-down) (Kaarssteun#1419)<br>
+:small_blue_diamond: [Artist order study](https://www.figma.com/proto/LOtGvO8x6KZFQclXBGLxUb/Stable-Diffusion-test?scaling=scale-down) ([Kitt Hirasaki](https://www.reddit.com/user/Cultural_Contract512/))<br>
 
 ## Art style/Artist lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
