@@ -125,4 +125,5 @@ Here's a list of quick prompts to get you started in the world of Stable Diffusi
 :small_blue_diamond: Film character (richservo#8465) : `film still of [character] [action] in [movie], 4k`<br>
 :small_blue_diamond: Real life cartoon character (richservo#8465) : `portrait photo still of real life [character], 8k, 85mm f1.8`<br>
 :small_blue_diamond: Dish picture (richservo#8465) : `DSLR food photograph of [dish description], 85mm f1.8`<br>
+:small_blue_diamond: Muppet portrait (richservo#8465) : `studio portrait still of muppet !!!!![person or character] !!!!!! as a muppet muppet as a muppet, 8k, studio lighting, key light -C 13 -s 150` <br>
 
