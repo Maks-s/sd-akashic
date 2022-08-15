@@ -92,6 +92,8 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [One Hundred TV shows study](https://jalonso.notion.site/Stable-Diffusion-One-hundred-TV-shows-e490780c49724cee987cd6bf89b37c4c)<br>
 :small_blue_diamond: [Film studies](https://artblind.notion.site/artblind/3e50796fe6904048981156436145d501)<br>
 :small_blue_diamond: [Punctuation study](https://arkitecc-prompt-study.notion.site/adecfbad9c7c49ddb0eba8795d96efd4)<br>
+:small_blue_diamond: [Secondary artist study](https://www.youtube.com/watch?v=-P15nYxRQJg)<br>
+:small_blue_diamond: [Prompt permutation study](https://erucipe.notion.site/Prompt-permutation-study-1b6c569f6218445f8a1d4598930fed09)<br>
 
 ## Art style/Artist lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
