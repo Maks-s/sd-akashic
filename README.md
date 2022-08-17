@@ -118,7 +118,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [SD Image splitter](https://sd-split.pages.dev/)<br>
 :small_blue_diamond: [List of 1.5m SD prompts](https://drive.google.com/file/d/1pZHtL43Gk2SGFTTP-XXDOBEGyBL9BS73/view)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
-:small_orange_diamond: [Prompt builder](https://promptomania.com/prompt-builder/)<br>
+:small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
 
 ## Prompts [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
