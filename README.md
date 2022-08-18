@@ -78,8 +78,11 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [ESoS' Image size study](https://twitter.com/endlesscofstars/status/1556816377964425217)<br>
 :small_blue_diamond: [ESoS' Steps & Sampler study](https://twitter.com/endlesscofstars/status/1556457377305505793)<br>
 :small_blue_diamond: [ESoS' CFG study](https://twitter.com/endlesscofstars/status/1556290783992418304)<br>
-:small_blue_diamond: [Chris Allen's CFG animation study](https://twitter.com/zippy731/status/1556821468184338433)<br>
-:small_blue_diamond: [Localstarlight's CFG animation study](https://github.com/Maks-s/sd-akashic/blob/master/img/localstarlight-cfg-animation-study.gif) (localstarlight#3529)<br>
+:small_blue_diamond: [Chris Allen's CFG animated study](https://twitter.com/zippy731/status/1556821468184338433)<br>
+:small_blue_diamond: [Localstarlight's CFG animated study](https://github.com/Maks-s/sd-akashic/blob/master/img/localstarlight-cfg-animation-study.gif) (localstarlight#3529)<br>
+:small_blue_diamond: [Captain's ETA/scale study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-scale.png) (Captain#4568)<br>
+:small_blue_diamond: [Captain's ETA/steps study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-steps.png) (Captain#4568)<br>
+:small_blue_diamond: [Bacontime's sampler animated study](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-sampler.gif) (bacontime#6072)<br>
 
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
