@@ -85,6 +85,8 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
 :small_blue_diamond: [Park bench study](https://docs.google.com/spreadsheets/d/1WCNQPNa56ni_S4y82bdr5xbJsBM7_VmTcioMizxRPPA/htmlview) (burnin#2452)<br>
 :small_blue_diamond: [Camera study](https://docs.google.com/document/d/1c06KHlS0A7E4hCCFNl_6umuguHJQfn0K7P_h-8bDwkA/edit) (Mr_Sumato#3369)<br>
+:small_blue_diamond: [SD emojis study](https://docs.google.com/document/d/1SNBoEgY5Z3x7A_3iiFL6LQCnK2FtVF63CEJo4G_brz4/edit) (Spake#1808)<br>
+:small_blue_diamond: [4 Games Cafeteria study](https://twitter.com/bs_blackscout/status/1560128847508537344)<br>
 
 ### Misc
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
@@ -117,6 +119,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: Image to prompt : [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)<br>
 :small_blue_diamond: [SD Image splitter](https://sd-split.pages.dev/)<br>
 :small_blue_diamond: [List of 1.5m SD prompts](https://drive.google.com/file/d/1pZHtL43Gk2SGFTTP-XXDOBEGyBL9BS73/view)<br>
+:small_blue_diamond: [List of 9m SD prompts with their results](https://drive.google.com/u/0/uc?id=14_CRrWMw20OSSd5ZA-7epXdWF3DlwM8g)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
