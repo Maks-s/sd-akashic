@@ -125,6 +125,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [List of 1.5m SD prompts](https://drive.google.com/file/d/1pZHtL43Gk2SGFTTP-XXDOBEGyBL9BS73/view)<br>
 :small_blue_diamond: [List of 9m SD prompts with their results](https://drive.google.com/u/0/uc?id=14_CRrWMw20OSSd5ZA-7epXdWF3DlwM8g)<br>
 :small_blue_diamond: [SD Image Manager](https://github.com/AndrewMead10/Stable-Diffusion-Image-Manager)<br>
+:small_blue_diamond: [SD Prompts sqlite DB](https://github.com/paperdave/stable-diffusion-sqlite)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
