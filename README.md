@@ -83,6 +83,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Captain's ETA/scale study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-scale.png) (Captain#4568)<br>
 :small_blue_diamond: [Captain's ETA/steps study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-steps.png) (Captain#4568)<br>
 :small_blue_diamond: [Bacontime's sampler animated study](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-sampler.gif) (bacontime#6072)<br>
+:small_blue_diamond: [MrH3RB's CFG/sampler study](https://github.com/Maks-s/sd-akashic/blob/master/img/mrh3rb-cfg-sampler.png) (MrH3RB#9625)<br>
 
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
