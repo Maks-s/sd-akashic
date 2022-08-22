@@ -9,7 +9,7 @@
   <a href="https://github.com/Maks-s/sd-akashic/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
-  <a href="LICENSE.md">
+  <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-Unlicense-lightgrey.svg?longCache=true" alt="The Unlicense">
   </a>
 </p>
