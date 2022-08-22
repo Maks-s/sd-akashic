@@ -42,8 +42,7 @@ To differentiate between other AI imagery tools and SD, the Records will use the
 
 ### Stable Diffusion
 
-To use SD, you need to send a message in a channel labeled #dream-N (N being a number between 1 and 50).<br>
-Your message should be structured like this : `!dream "<prompt>"`
+To use SD, you can access the official [DreamStudio](https://beta.dreamstudio.ai) website or use the [Open-Source Model](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Keep in mind the following :
 - Your prompt must be 75 tokens or less, anything above will result in "prompt truncated after tokenization"
