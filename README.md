@@ -61,12 +61,15 @@ Keep in mind the following :
 
 :small_blue_diamond: [Stable Diffusion
 Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Harts7cEGEPAtmWGvl62yJHByPE0ZI/edit)<br>
+:small_blue_diamond: [Stable Diffusion/Dreamstudio Guide](https://docs.google.com/document/d/1O41qGvE69qnDoaqcdeokCObcRR_4yUUjRCmvPEVd2MU/edit)<br>
 :small_blue_diamond: [SD Launch Presentation](https://www.youtube.com/watch?v=EqTLkt-Ycwo)<br>
-:small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 :small_blue_diamond: [Creating cute animals with SD](https://youtu.be/vzV_V4AYPAA)<br>
 :small_blue_diamond: [Exactly How Stable Diffusion Generates Art](https://youtu.be/a_kH32gWm2I)<br>
 :small_blue_diamond: [Seed Editing](https://github.com/Maks-s/sd-akashic/blob/master/guides/richservo-seed-guide.md)<br>
-:small_blue_diamond: [SD Tips](https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/edit) (csunberry#0594)<br>
+:small_blue_diamond: [SD Guide for artists and non-artists](https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/edit) (csunberry#0594)<br>
+:small_blue_diamond: [Understanding SD through teapots](https://rexwang8.github.io/resource/ai/teapot)<br>
+:small_blue_diamond: [How to maximize your DreamStudio credits](https://docs.google.com/document/d/1Wzfx1Ip76WYP7Umme7Rf3LBAh2VVQ21lecY_YiO6heA/edit)<br>
+:small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
@@ -83,7 +86,6 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Captain's ETA/scale study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-scale.png) (Captain#4568)<br>
 :small_blue_diamond: [Captain's ETA/steps study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-steps.png) (Captain#4568)<br>
 :small_blue_diamond: [Bacontime's sampler animated study](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-sampler.gif) (bacontime#6072)<br>
-:small_blue_diamond: [MrH3RB's CFG/sampler study](https://github.com/Maks-s/sd-akashic/blob/master/img/mrh3rb-cfg-sampler.png) (MrH3RB#9625)<br>
 
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
@@ -91,7 +93,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Camera study](https://docs.google.com/document/d/1c06KHlS0A7E4hCCFNl_6umuguHJQfn0K7P_h-8bDwkA/edit) (Mr_Sumato#3369)<br>
 :small_blue_diamond: [SD emojis study](https://docs.google.com/document/d/1SNBoEgY5Z3x7A_3iiFL6LQCnK2FtVF63CEJo4G_brz4/edit) (Spake#1808)<br>
 :small_blue_diamond: [4 Games Cafeteria study](https://twitter.com/bs_blackscout/status/1560128847508537344)<br>
-:small_blue_diamond: [Dramatic Lighting study](https://docs.google.com/document/d/1gSaw378uDgCfn6Gzn3u_o6u2y_G69ZFPLmGOkmM-Ptk/edit)<br>
+:small_blue_diamond: [Stylistic Lighting study](https://docs.google.com/document/d/1gSaw378uDgCfn6Gzn3u_o6u2y_G69ZFPLmGOkmM-Ptk/edit)<br>
 
 ### Misc
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
@@ -123,10 +125,11 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Image dimension table](https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png) (brbbbq#0731)<br>
 :small_blue_diamond: Image to prompt : [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)<br>
 :small_blue_diamond: [SD Image splitter](https://sd-split.pages.dev/)<br>
-:small_blue_diamond: [List of 1.5m SD prompts](https://drive.google.com/file/d/1pZHtL43Gk2SGFTTP-XXDOBEGyBL9BS73/view)<br>
-:small_blue_diamond: [List of 9m SD prompts with their results](https://drive.google.com/u/0/uc?id=14_CRrWMw20OSSd5ZA-7epXdWF3DlwM8g)<br>
+:small_blue_diamond: Dream Channel Backup - [SD prompts + image links](https://drive.google.com/file/d/1-7neYNdwiFJNID5xV1BbI-JLPMIlNEgC) / [SD prompts only](https://drive.google.com/file/d/1tvSh-pVL0qiov0hcdQzsTEFdaKE-gioz) / [Raw CSV](https://drive.google.com/file/d/1zxg16qA5Yw1H1wlGL8ba6XOyyuzK4Eh2)<br>
 :small_blue_diamond: [SD Image Manager](https://github.com/AndrewMead10/Stable-Diffusion-Image-Manager)<br>
-:small_blue_diamond: [SD Prompts sqlite DB](https://github.com/paperdave/stable-diffusion-sqlite)<br>
+:small_blue_diamond: [SD Prompts to sqlite](https://github.com/paperdave/stable-diffusion-sqlite)<br>
+:small_blue_diamond: [SD Prompts + modifiers sqlite DB](https://drive.google.com/file/d/1CgxA8i9zHI4QHPdVHSXiuNUBzRfeI120)<br>
+:small_blue_diamond: [UMAP Maps of CLIP ViT-L/14 keywords representations](https://gist.github.com/Pyr-000/f69335314be3abc5660a55fdd0643125)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
@@ -134,11 +137,11 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 ## Prompts [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 Here's a list of quick prompts to get you started in the world of Stable Diffusion
 
+:small_orange_diamond: [Prompt generator](https://rexwang8.github.io/resource/ai/generator)<br>
 :small_blue_diamond: GTA V cover character : `[subject] in GTA V, cover art by Stephen Bliss, artstation`<br>
 :small_blue_diamond: Quick photorealism (NOP#1337) : `[prompt], Canon EOS R3, f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame`<br>
 :small_blue_diamond: Age changer (richservo#8465) : `DSLR photo portrait still of [age] year old age [age] [person] at age [age]!!!, 85mm f1.8`<br>
 :small_blue_diamond: Film character (richservo#8465) : `film still of [character] [action] in [movie], 4k`<br>
 :small_blue_diamond: Real life cartoon character (richservo#8465) : `portrait photo still of real life [character], 8k, 85mm f1.8`<br>
 :small_blue_diamond: Dish picture (richservo#8465) : `DSLR food photograph of [dish description], 85mm f1.8`<br>
-:small_blue_diamond: Muppet portrait (richservo#8465) : `studio portrait still of muppet !!!!![person or character] !!!!!! as a muppet muppet as a muppet, 8k, studio lighting, key light -C 13 -s 150` <br>
-
+:small_blue_diamond: Muppet portrait (richservo#8465) : `studio portrait still of muppet !!!!![person or character] !!!!!! as a muppet muppet as a muppet, 8k, studio lighting, key light -C 13 -s 150`<br>
