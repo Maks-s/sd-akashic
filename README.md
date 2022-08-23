@@ -42,7 +42,7 @@ To differentiate between other AI imagery tools and SD, the Records will use the
 
 ### Stable Diffusion
 
-To use SD, you can access the official [DreamStudio](https://beta.dreamstudio.ai) website or use the [Open-Source Model](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+To use SD, you can access the official [DreamStudio](https://beta.dreamstudio.ai) website or use the [Open-Source Model](https://huggingface.co/CompVis/stable-diffusion)
 
 Keep in mind the following :
 - Your prompt must be 75 tokens or less, anything above will result in "prompt truncated after tokenization"
