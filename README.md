@@ -49,10 +49,6 @@ Keep in mind the following :
 - Your prompt is case insensitive
 - There's about 30,000 tokens understood by the AI, this means it won't know about some weird word unused since the 1600s
 - A token is roughly a word, a punctuation, or a Unicode character
-- You can see how many tokens were used by adding `-t` after / before your prompt
-- Don't do prompts that would make your mother ashamed
-- Guns, war, blood, historical events and celebrities are OK
-- Nude big titty goth gf, gory decapitation are not. Use your own GPU.
 - Same prompt, same seed, same modifiers will end with the same result
 - To make variations of an image, it's recommended to keep the seed and slightly alter the prompt / modifiers
 
@@ -69,6 +65,15 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Understanding SD through teapots](https://rexwang8.github.io/resource/ai/teapot)<br>
 :small_blue_diamond: [How to maximize your DreamStudio credits](https://docs.google.com/document/d/1Wzfx1Ip76WYP7Umme7Rf3LBAh2VVQ21lecY_YiO6heA/edit)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
+
+### Colabs / Alternative websites
+
+:small_blue_diamond: [HuggingFace Space](https://huggingface.co/spaces/stabilityai/stable-diffusion)<br>
+:small_blue_diamond: [SD Notebook with KLMS sampling](https://colab.research.google.com/github/pharmapsychotic/ai-notebooks/blob/main/pharmapsychotic_Stable_Diffusion.ipynb)<br>
+:small_blue_diamond: [SD with 🧨 diffusers](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)<br>
+:small_blue_diamond: [SD Researcher](https://colab.research.google.com/drive/1j6sggQmWSiYrRmfnMR8_h3X6n1YCck77)<br>
+:small_blue_diamond: [Prompt-space Interpolation](https://colab.research.google.com/drive/1gj8_EPyntZuaiQuzYOzog5YKA74esoB3)<br>
+:small_blue_diamond: [SD with Queing and Google Drive](https://colab.research.google.com/drive/1cl3d84B5AXepycKAfCba77faUFBRGY2O)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
