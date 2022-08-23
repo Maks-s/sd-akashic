@@ -76,6 +76,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD with Queing and Google Drive](https://colab.research.google.com/drive/1cl3d84B5AXepycKAfCba77faUFBRGY2O)<br>
 :small_blue_diamond: [SD on Colab](https://colab.research.google.com/drive/1yf3-bUhTcfxRmAphJHVQQAD2ArYO1CRZ) (Collection of colabs)<br>
 :small_blue_diamond: [Optimized SD repository](https://github.com/basujindal/stable-diffusion)<br>
+:small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
@@ -138,6 +139,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [UMAP Maps of CLIP ViT-L/14 keywords representations](https://gist.github.com/Pyr-000/f69335314be3abc5660a55fdd0643125)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
+:small_orange_diamond: [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)<br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
 
 ## Prompts [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
