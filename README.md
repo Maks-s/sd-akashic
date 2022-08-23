@@ -74,6 +74,8 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Researcher](https://colab.research.google.com/drive/1j6sggQmWSiYrRmfnMR8_h3X6n1YCck77)<br>
 :small_blue_diamond: [Prompt-space Interpolation](https://colab.research.google.com/drive/1gj8_EPyntZuaiQuzYOzog5YKA74esoB3)<br>
 :small_blue_diamond: [SD with Queing and Google Drive](https://colab.research.google.com/drive/1cl3d84B5AXepycKAfCba77faUFBRGY2O)<br>
+:small_blue_diamond: [SD on Colab](https://colab.research.google.com/drive/1yf3-bUhTcfxRmAphJHVQQAD2ArYO1CRZ) (Collection of colabs)<br>
+:small_blue_diamond: [Optimized SD repository](https://github.com/basujindal/stable-diffusion)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
