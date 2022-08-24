@@ -64,6 +64,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Guide for artists and non-artists](https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/edit) (csunberry#0594)<br>
 :small_blue_diamond: [Understanding SD through teapots](https://rexwang8.github.io/resource/ai/teapot)<br>
 :small_blue_diamond: [How to maximize your DreamStudio credits](https://docs.google.com/document/d/1Wzfx1Ip76WYP7Umme7Rf3LBAh2VVQ21lecY_YiO6heA/edit)<br>
+:small_blue_diamond: [SD Windows Installation Guide](https://rentry.org/SDInstallation)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
 ### Colabs / Alternative websites
@@ -78,6 +79,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Optimized SD repository](https://github.com/basujindal/stable-diffusion)<br>
 :small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
 :small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)<br>
+:small_blue_diamond: [SD on CPU repository](https://github.com/bes-dev/stable_diffusion.openvino)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
