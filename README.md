@@ -134,6 +134,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 
 :small_blue_diamond: [Image dimension table](https://github.com/Maks-s/sd-akashic/blob/master/img/brbbbq-dimensions.png) (brbbbq#0731)<br>
 :small_blue_diamond: Image to prompt : [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)<br>
+:small_blue_diamond: Image to prompt (easy to use Replicate version): [CLIP Interrogator](https://replicate.com/methexis-inc/img2prompt)<br>
 :small_blue_diamond: [SD Image splitter](https://sd-split.pages.dev/)<br>
 :small_blue_diamond: Dream Channel Backup - [SD prompts + image links](https://drive.google.com/file/d/1-7neYNdwiFJNID5xV1BbI-JLPMIlNEgC) / [SD prompts only](https://drive.google.com/file/d/1tvSh-pVL0qiov0hcdQzsTEFdaKE-gioz) / [Raw CSV](https://drive.google.com/file/d/1zxg16qA5Yw1H1wlGL8ba6XOyyuzK4Eh2)<br>
 :small_blue_diamond: [SD Image Manager](https://github.com/AndrewMead10/Stable-Diffusion-Image-Manager)<br>
