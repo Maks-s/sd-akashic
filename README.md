@@ -80,6 +80,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
 :small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)<br>
 :small_blue_diamond: [SD on CPU repository](https://github.com/bes-dev/stable_diffusion.openvino)<br>
+:small_blue_diamond: [bot-like SD repo (also has a web ui under rapid development](https://github.com/lstein/stable-diffusion)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
