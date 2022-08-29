@@ -63,8 +63,10 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Seed Editing](https://github.com/Maks-s/sd-akashic/blob/master/guides/richservo-seed-guide.md)<br>
 :small_blue_diamond: [SD Guide for artists and non-artists](https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/edit) (csunberry#0594)<br>
 :small_blue_diamond: [Understanding SD through teapots](https://rexwang8.github.io/resource/ai/teapot)<br>
-:small_blue_diamond: [How to maximize your DreamStudio credits](https://docs.google.com/document/d/1Wzfx1Ip76WYP7Umme7Rf3LBAh2VVQ21lecY_YiO6heA/edit)<br>
+:small_blue_diamond: [DreamStudio Tips&Tricks](https://docs.google.com/document/d/1p3xrhfFhe9FPqxMj0gJRCBctO1FBNeAcahkxd42q2v8/edit)<br>
 :small_blue_diamond: [SD Windows Installation Guide](https://rentry.org/SDInstallation)<br>
+:small_blue_diamond: [SD Installation Guide for LStein and Basujindal forks](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit)<br>
+:small_blue_diamond: [Awesome SD](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
 ### Colabs / Alternative websites
@@ -80,7 +82,10 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
 :small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)<br>
 :small_blue_diamond: [SD on CPU repository](https://github.com/bes-dev/stable_diffusion.openvino)<br>
-:small_blue_diamond: [bot-like SD repo (also has a web ui under rapid development](https://github.com/lstein/stable-diffusion)<br>
+:small_blue_diamond: [Bot-like SD repository](https://github.com/lstein/stable-diffusion) (With Web UI)<br>
+:small_blue_diamond: [SD Docker w/ JupyterLab](https://github.com/pieroit/stable-diffusion-jupyterlab-docker/)<br>
+:small_blue_diamond: [Prog Rock Stable](https://github.com/lowfuel/progrock-stable), SD w/ Proggy Enhancements<br>
+:small_blue_diamond: [SD Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
@@ -97,6 +102,8 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Captain's ETA/scale study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-scale.png) (Captain#4568)<br>
 :small_blue_diamond: [Captain's ETA/steps study](https://github.com/Maks-s/sd-akashic/blob/master/img/captain-eta-steps.png) (Captain#4568)<br>
 :small_blue_diamond: [Bacontime's sampler animated study](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-sampler.gif) (bacontime#6072)<br>
+:small_blue_diamond: [Muerilla's sampler/steps study](https://www.reddit.com/r/StableDiffusion/comments/wwm2at/sampler_vs_steps_comparison_low_to_mid_step_counts/), includes K-Diffusion<br>
+:small_blue_diamond: [Muerilla's sampler study](https://www.reddit.com/r/StableDiffusion/comments/wwfdhs/sampler_comparison_incl_kdiffusion/), includes K-Diffusion<br>
 
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
@@ -137,7 +144,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: Image to prompt : [CLIP Interrogator](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb)<br>
 :small_blue_diamond: Image to prompt (easy to use Replicate version): [CLIP Interrogator](https://replicate.com/methexis-inc/img2prompt)<br>
 :small_blue_diamond: [SD Image splitter](https://sd-split.pages.dev/)<br>
-:small_blue_diamond: Dream Channel Backup - [SD prompts + image links](https://drive.google.com/file/d/1-7neYNdwiFJNID5xV1BbI-JLPMIlNEgC) / [SD prompts only](https://drive.google.com/file/d/1tvSh-pVL0qiov0hcdQzsTEFdaKE-gioz) / [Raw CSV](https://drive.google.com/file/d/1zxg16qA5Yw1H1wlGL8ba6XOyyuzK4Eh2)<br>
+:small_blue_diamond: Dream Channel Backup - [Prompts + modifiers + image links](https://drive.google.com/file/d/1VVK9zomxfChADhsatyobxakVO_Zn6jiz/view) / [Prompts + links](https://drive.google.com/file/d/1-7neYNdwiFJNID5xV1BbI-JLPMIlNEgC) / [Prompts only](https://drive.google.com/file/d/1tvSh-pVL0qiov0hcdQzsTEFdaKE-gioz) / [Raw CSV](https://drive.google.com/file/d/1zxg16qA5Yw1H1wlGL8ba6XOyyuzK4Eh2)<br>
 :small_blue_diamond: [SD Image Manager](https://github.com/AndrewMead10/Stable-Diffusion-Image-Manager)<br>
 :small_blue_diamond: [SD Prompts to sqlite](https://github.com/paperdave/stable-diffusion-sqlite)<br>
 :small_blue_diamond: [SD Prompts + modifiers sqlite DB](https://drive.google.com/file/d/1CgxA8i9zHI4QHPdVHSXiuNUBzRfeI120)<br>
