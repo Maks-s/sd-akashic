@@ -133,6 +133,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Bacontime's Artist comparisons, part 1](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-artist-comparison.png) (bacontime#6072)<br>
 :small_blue_diamond: [Bacontime's Artist comparisons, part 2](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-artist-comparison-2.png) (bacontime#6072)<br>
 :small_blue_diamond: [SD Styles & Mediums](https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit)<br>
+:small_blue_diamond: [Anime Artist Styles](https://github.com/Maks-s/sd-akashic/blob/anime-artists/img/anime_sd.png) (vibrantrida#4135)<br>
 
 ## Keyword lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
