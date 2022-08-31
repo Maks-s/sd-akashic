@@ -114,7 +114,6 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Stylistic Lighting study](https://docs.google.com/document/d/1gSaw378uDgCfn6Gzn3u_o6u2y_G69ZFPLmGOkmM-Ptk/edit)<br>
 
 ### Misc
-:small_blue_diamond: [Open Source code for running your own Stable Diffusion Discord bot](https://github.com/manuelkiessling/stable-diffusion-discord-bot)<br>
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
 :small_blue_diamond: [Stable Diffusion Prompt Weighting study](https://drive.google.com/file/d/111p6ObWFFKo1aZbuiIyGRZI4fBMHtN6s/view)<br>
 :small_blue_diamond: [160 celebrities study](https://docs.google.com/spreadsheets/u/0/d/1IqXkYDXux97aU8Y5kqqBrBvCn3CLRDhMZ7lEWsAtwUc/htmlview)<br>
@@ -151,6 +150,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [SD Prompts to sqlite](https://github.com/paperdave/stable-diffusion-sqlite)<br>
 :small_blue_diamond: [SD Prompts + modifiers sqlite DB](https://drive.google.com/file/d/1CgxA8i9zHI4QHPdVHSXiuNUBzRfeI120)<br>
 :small_blue_diamond: [UMAP Maps of CLIP ViT-L/14 keywords representations](https://gist.github.com/Pyr-000/f69335314be3abc5660a55fdd0643125)<br>
+:small_blue_diamond: [Open Source code for running your own Stable Diffusion Discord bot](https://github.com/manuelkiessling/stable-diffusion-discord-bot)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_orange_diamond: [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)<br>
