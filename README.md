@@ -104,6 +104,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Bacontime's sampler animated study](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-sampler.gif) (bacontime#6072)<br>
 :small_blue_diamond: [Muerilla's sampler/steps study](https://www.reddit.com/r/StableDiffusion/comments/wwm2at/sampler_vs_steps_comparison_low_to_mid_step_counts/), includes K-Diffusion<br>
 :small_blue_diamond: [Muerilla's sampler study](https://www.reddit.com/r/StableDiffusion/comments/wwfdhs/sampler_comparison_incl_kdiffusion/), includes K-Diffusion<br>
+:small_blue_diamond: [Dolphin's Photo of Man sampler study](https://imgur.com/a/GJwGjOS) (Dolphin#6313)<br>
 
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
@@ -112,6 +113,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [SD emojis study](https://docs.google.com/document/d/1SNBoEgY5Z3x7A_3iiFL6LQCnK2FtVF63CEJo4G_brz4/edit) (Spake#1808)<br>
 :small_blue_diamond: [4 Games Cafeteria study](https://twitter.com/bs_blackscout/status/1560128847508537344)<br>
 :small_blue_diamond: [Stylistic Lighting study](https://docs.google.com/document/d/1gSaw378uDgCfn6Gzn3u_o6u2y_G69ZFPLmGOkmM-Ptk/edit)<br>
+:small_blue_diamond: ["Trending on Artstation" and other myths](https://medium.com/@soapsudtycoon/stable-diffusion-trending-on-art-station-and-other-myths-c09b09084e33)<br>
 
 ### Other
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
@@ -133,6 +135,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Bacontime's Artist comparisons, part 2](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-artist-comparison-2.png) (bacontime#6072)<br>
 :small_blue_diamond: [SD Styles & Mediums](https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit)<br>
 :small_blue_diamond: [Anime Artist Styles](https://github.com/Maks-s/sd-akashic/blob/anime-artists/img/anime_sd.png) (vibrantrida#4135)<br>
+:small_blue_diamond: [52 Artists Collaborations](https://drive.google.com/file/d/1OJ04Twn58B433rvTIXEgwfjaA3LL5znn/view) <br>
 
 ## Keyword lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
@@ -149,6 +152,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [SD Image Manager](https://github.com/AndrewMead10/Stable-Diffusion-Image-Manager)<br>
 :small_blue_diamond: [SD Prompts to sqlite](https://github.com/paperdave/stable-diffusion-sqlite)<br>
 :small_blue_diamond: [SD Prompts + modifiers sqlite DB](https://drive.google.com/file/d/1CgxA8i9zHI4QHPdVHSXiuNUBzRfeI120)<br>
+:small_blue_diamond: SD Prompts/images search engine : [Lexica](https://lexica.art/)<br>
 :small_blue_diamond: [UMAP Maps of CLIP ViT-L/14 keywords representations](https://gist.github.com/Pyr-000/f69335314be3abc5660a55fdd0643125)<br>
 :small_blue_diamond: [Open Source code for running your own Stable Diffusion Discord bot](https://github.com/manuelkiessling/stable-diffusion-discord-bot)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
