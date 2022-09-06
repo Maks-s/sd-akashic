@@ -160,14 +160,15 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Open Source code for running your own Stable Diffusion Discord bot](https://github.com/manuelkiessling/stable-diffusion-discord-bot)<br>
 :small_blue_diamond: Ways to weight words : [Emphasis study](https://github.com/JohannesGaessler/stable-diffusion-tools/tree/master/emphasis)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
-:small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_orange_diamond: [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)<br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
 
 ## Prompts [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 Here's a list of quick prompts to get you started in the world of Stable Diffusion
 
-:small_orange_diamond: [Prompt generator](https://rexwang8.github.io/resource/ai/generator)<br>
+:small_orange_diamond: [Rexwang8's Prompt Generator](https://rexwang8.github.io/resource/ai/generator)<br>
+:small_orange_diamond: [AI Text Prompt Generator](https://aitextpromptgenerator.com/)<br>
+:small_orange_diamond: [Promptomania's Prompt Builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_blue_diamond: GTA V cover character : `[subject] in GTA V, cover art by Stephen Bliss, artstation`<br>
 :small_blue_diamond: Quick photorealism (NOP#1337) : `[prompt], Canon EOS R3, f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame`<br>
 :small_blue_diamond: Age changer (richservo#8465) : `DSLR photo portrait still of [age] year old age [age] [person] at age [age]!!!, 85mm f1.8`<br>
