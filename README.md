@@ -87,6 +87,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Docker w/ JupyterLab](https://github.com/pieroit/stable-diffusion-jupyterlab-docker/)<br>
 :small_blue_diamond: [Prog Rock Stable](https://github.com/lowfuel/progrock-stable), SD w/ Proggy Enhancements<br>
 :small_blue_diamond: [SD Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)<br>
+:small_blue_diamond: [SD Web UI repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui), includes collab link<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
