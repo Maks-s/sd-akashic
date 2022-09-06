@@ -61,13 +61,14 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Creating cute animals with SD](https://youtu.be/vzV_V4AYPAA)<br>
 :small_blue_diamond: [Exactly How Stable Diffusion Generates Art](https://youtu.be/a_kH32gWm2I)<br>
 :small_blue_diamond: [Seed Editing](https://github.com/Maks-s/sd-akashic/blob/master/guides/richservo-seed-guide.md)<br>
-:small_blue_diamond: [SD Guide for artists and non-artists](https://docs.google.com/document/d/1K6EqcsRut0InU-8jB0yOvBMGesf5Dndg5FwyuaYLqNc/edit) (csunberry#0594)<br>
+:small_blue_diamond: [SD Guide for artists and non-artists](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit)<br>
 :small_blue_diamond: [Understanding SD through teapots](https://rexwang8.github.io/resource/ai/teapot)<br>
 :small_blue_diamond: [DreamStudio Tips&Tricks](https://docs.google.com/document/d/1p3xrhfFhe9FPqxMj0gJRCBctO1FBNeAcahkxd42q2v8/edit)<br>
 :small_blue_diamond: [SD Windows Installation Guide](https://rentry.org/SDInstallation)<br>
 :small_blue_diamond: [SD Installation Guide for LStein and Basujindal forks](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit)<br>
 :small_blue_diamond: [Awesome SD](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)<br>
 :small_blue_diamond: [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Stable_Diffusion)<br>
+:small_blue_diamond: [SD Training Guide](https://rentry.org/Stable-Diffusion-Training)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
 ### Colabs / Alternative websites
@@ -83,11 +84,14 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
 :small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)<br>
 :small_blue_diamond: [SD on CPU repository](https://github.com/bes-dev/stable_diffusion.openvino)<br>
-:small_blue_diamond: [Bot-like SD repository](https://github.com/lstein/stable-diffusion) (With Web UI)<br>
+:small_blue_diamond: [LStein's SD fork](https://github.com/lstein/stable-diffusion), lots of shiny new features<br>
 :small_blue_diamond: [SD Docker w/ JupyterLab](https://github.com/pieroit/stable-diffusion-jupyterlab-docker/)<br>
 :small_blue_diamond: [Prog Rock Stable](https://github.com/lowfuel/progrock-stable), SD w/ Proggy Enhancements<br>
 :small_blue_diamond: [SD Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)<br>
-:small_blue_diamond: [SD Web UI repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui), includes collab link<br>
+:small_blue_diamond: [SD Web UI repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui), includes colab link<br>
+:small_blue_diamond: [SD back-ported to OpenAI guided diffusion codebase](https://github.com/Jack000/glid-3-xl-stable)<br>
+:small_blue_diamond: [Krita SD Plugin](https://www.flyingdog.de/sd/en/)<br>
+:small_blue_diamond: [Richservo's SD GUI](https://github.com/richservo/StableDiffusionGUI)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
@@ -107,6 +111,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Muerilla's sampler/steps study](https://www.reddit.com/r/StableDiffusion/comments/wwm2at/sampler_vs_steps_comparison_low_to_mid_step_counts/), includes K-Diffusion<br>
 :small_blue_diamond: [Muerilla's sampler study](https://www.reddit.com/r/StableDiffusion/comments/wwfdhs/sampler_comparison_incl_kdiffusion/), includes K-Diffusion<br>
 :small_blue_diamond: [Dolphin's Photo of Man sampler study](https://imgur.com/a/GJwGjOS) (Dolphin#6313)<br>
+:small_blue_diamond: [Sampler/steps w/ timing](https://www.reddit.com/r/StableDiffusion/comments/x1587s/sampler_step_count_comparison_with_timing_info/)<br>
 
 ### Keywords
 :small_blue_diamond: [Fruit basket study](https://docs.google.com/spreadsheets/d/1735ENCmaF-K8XRWjSE6ndOCvRlCMBA27qR3iPH1IHgE/htmlview) (burnin#2452)<br>
@@ -168,7 +173,7 @@ Here's a list of quick prompts to get you started in the world of Stable Diffusi
 
 :small_orange_diamond: [Rexwang8's Prompt Generator](https://rexwang8.github.io/resource/ai/generator)<br>
 :small_orange_diamond: [AI Text Prompt Generator](https://aitextpromptgenerator.com/)<br>
-:small_orange_diamond: [Promptomania's Prompt Builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
+:small_orange_diamond: [Promptomania's Prompt Builder](https://promptomania.com/prompt-builder/)<br>
 :small_blue_diamond: GTA V cover character : `[subject] in GTA V, cover art by Stephen Bliss, artstation`<br>
 :small_blue_diamond: Quick photorealism (NOP#1337) : `[prompt], Canon EOS R3, f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame`<br>
 :small_blue_diamond: Age changer (richservo#8465) : `DSLR photo portrait still of [age] year old age [age] [person] at age [age]!!!, 85mm f1.8`<br>
