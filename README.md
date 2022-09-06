@@ -67,7 +67,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Windows Installation Guide](https://rentry.org/SDInstallation)<br>
 :small_blue_diamond: [SD Installation Guide for LStein and Basujindal forks](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit)<br>
 :small_blue_diamond: [Awesome SD](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)<br>
-:small_blue_diamond: [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Stable_Diffusion)<br>
+:small_blue_diamond: [4chan /g/ wiki](https://wiki.installgentoo.com/wiki/Stable_Diffusion)<br>
 :small_blue_diamond: [SD Training Guide](https://rentry.org/Stable-Diffusion-Training)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
