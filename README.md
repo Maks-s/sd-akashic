@@ -67,6 +67,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Windows Installation Guide](https://rentry.org/SDInstallation)<br>
 :small_blue_diamond: [SD Installation Guide for LStein and Basujindal forks](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit)<br>
 :small_blue_diamond: [Awesome SD](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)<br>
+:small_blue_diamond: [Gentoo Wiki](https://wiki.installgentoo.com/wiki/Stable_Diffusion)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
 ### Colabs / Alternative websites
@@ -156,6 +157,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: SD Prompts/images search engine : [Lexica](https://lexica.art/), [Libraire](https://libraire.ai/)<br>
 :small_blue_diamond: [UMAP Maps of CLIP ViT-L/14 keywords representations](https://gist.github.com/Pyr-000/f69335314be3abc5660a55fdd0643125)<br>
 :small_blue_diamond: [Open Source code for running your own Stable Diffusion Discord bot](https://github.com/manuelkiessling/stable-diffusion-discord-bot)<br>
+:small_blue_diamond: Ways to weight words : [Emphasis study](https://github.com/JohannesGaessler/stable-diffusion-tools/tree/master/emphasis)<br>
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Prompt builder](https://promptomania.com/stable-diffusion-prompt-builder/)<br>
 :small_orange_diamond: [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)<br>
