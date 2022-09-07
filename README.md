@@ -92,6 +92,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD back-ported to OpenAI guided diffusion codebase](https://github.com/Jack000/glid-3-xl-stable)<br>
 :small_blue_diamond: [Krita SD Plugin](https://www.flyingdog.de/sd/en/)<br>
 :small_blue_diamond: [Richservo's SD GUI](https://github.com/richservo/StableDiffusionGUI)<br>
+:small_blue_diamond: [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
