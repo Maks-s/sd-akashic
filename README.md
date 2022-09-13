@@ -98,6 +98,9 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Dreambooth on SD](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)<br>
 :small_blue_diamond: [NMKD SD GUI](https://nmkd.itch.io/t2i-gui)<br>
 :small_blue_diamond: [Tileable Texture Generator](https://replicate.com/tommoore515/material_stable_diffusion)<br>
+:small_blue_diamond: [Blender Texture Plugin](https://github.com/jamestiotio/solvent)<br>
+:small_blue_diamond: [SD Morphing between images](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb) and [its explanation](https://memo.sugyan.com/entry/2022/09/07/190000) (in JP)<br>
+:small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
