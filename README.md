@@ -154,7 +154,8 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [Bacontime's Artist comparisons, part 2](https://github.com/Maks-s/sd-akashic/blob/master/img/bacontime-artist-comparison-2.png) (bacontime#6072)<br>
 :small_blue_diamond: [SD Styles & Mediums](https://docs.google.com/document/d/1ZtNwY1PragKITY0F4R-f8CarwHojc9Wrf37d0NONHDg/edit)<br>
 :small_blue_diamond: [Anime Artist Styles](https://github.com/Maks-s/sd-akashic/blob/master/img/anime_sd.png) (vibrantrida#4135)<br>
-:small_blue_diamond: [52 Artists Collaborations](https://drive.google.com/file/d/1OJ04Twn58B433rvTIXEgwfjaA3LL5znn/view) <br>
+:small_blue_diamond: [52 Artists Collaborations](https://drive.google.com/file/d/1OJ04Twn58B433rvTIXEgwfjaA3LL5znn/view)<br>
+:small_blue_diamond: [Manav Mashruwala's 1.5 Artist Studies](https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/htmlview)<br>
 
 ## Keyword lists [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 
