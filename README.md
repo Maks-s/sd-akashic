@@ -101,6 +101,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Blender Texture Plugin](https://github.com/jamestiotio/solvent)<br>
 :small_blue_diamond: [SD Morphing between images](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb) and [its explanation](https://memo.sugyan.com/entry/2022/09/07/190000) (in JP)<br>
 :small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
+:small_blue_diamond: [Stable Diffusion UI v2](https://github.com/cmdr2/stable-diffusion-ui) - A simple 1-click way to install and use SD on your own computer<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
