@@ -102,6 +102,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Morphing between images](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb) and [its explanation](https://memo.sugyan.com/entry/2022/09/07/190000) (in JP)<br>
 :small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
 :small_blue_diamond: [Stable Diffusion UI v2](https://github.com/cmdr2/stable-diffusion-ui) - A simple 1-click way to install and use SD on your own computer<br>
+:small_blue_diamond: [Find the most important modifiers in your prompt](https://colab.research.google.com/drive/1ZemFqnjOhqbN4-h-gG8DEQX0jGGAGVzf#scrollTo=XI8OCDX9X8sk) - A tool that helps you rank modifiers in your prompt using similarity scores.<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
@@ -132,6 +133,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: [4 Games Cafeteria study](https://twitter.com/bs_blackscout/status/1560128847508537344)<br>
 :small_blue_diamond: [Stylistic Lighting study](https://docs.google.com/document/d/1gSaw378uDgCfn6Gzn3u_o6u2y_G69ZFPLmGOkmM-Ptk/edit)<br>
 :small_blue_diamond: ["Trending on Artstation" and other myths](https://medium.com/@soapsudtycoon/stable-diffusion-trending-on-art-station-and-other-myths-c09b09084e33)<br>
+:small_blue_diamond: ["Trending on Artstation" and other myths (part 2)](https://medium.com/@soapsudtycoon/prompt-engineering-trending-on-artstation-and-other-myths-part-2-d61e25a90517)<br>
 :small_blue_diamond: [Test of seeds, clothing, and clothing modifications](https://www.reddit.com/r/StableDiffusion/comments/x286d5/a_test_of_seeds_clothing_and_clothing/)<br>
 :small_blue_diamond: [Wonderflex's photography terms studies](https://www.reddit.com/r/StableDiffusion/comments/x286d5/a_test_of_seeds_clothing_and_clothing/)<br>
 
