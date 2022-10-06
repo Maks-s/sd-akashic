@@ -86,7 +86,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
 :small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)<br>
 :small_blue_diamond: [SD on CPU repository](https://github.com/bes-dev/stable_diffusion.openvino)<br>
-:small_blue_diamond: [LStein's SD fork](https://github.com/lstein/stable-diffusion), lots of shiny new features<br>
+:small_blue_diamond: [InvokeAI](https://github.com/invoke-ai/InvokeAI) (formerly lstein/stable-diffusion), lots of shiny new features<br>
 :small_blue_diamond: [SD Docker w/ JupyterLab](https://github.com/pieroit/stable-diffusion-jupyterlab-docker/)<br>
 :small_blue_diamond: [Prog Rock Stable](https://github.com/lowfuel/progrock-stable), SD w/ Proggy Enhancements<br>
 :small_blue_diamond: [SD Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)<br>
