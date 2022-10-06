@@ -103,6 +103,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
 :small_blue_diamond: [Stable Diffusion UI v2](https://github.com/cmdr2/stable-diffusion-ui) - A simple 1-click way to install and use SD on your own computer<br>
 :small_blue_diamond: [Find the most important modifiers in your prompt](https://colab.research.google.com/drive/1VL9LhoU8PWd5t1rRj71-TE5vhHjgzgmw) - A tool that helps you rank modifiers in your prompt using similarity scores.<br>
+:small_blue_diamond: [Diffusion-UI](https://github.com/leszekhanusz/diffusion-ui) - A responsive frontend for easy inpainting working with multiple backends including AUTOMATIC1111 and the [Stable Horde](https://stablehorde.net/) online cluster.<br>
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
