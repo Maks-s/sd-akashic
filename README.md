@@ -194,6 +194,7 @@ Here's a list of quick prompts to get you started in the world of Stable Diffusi
 :small_orange_diamond: [Rexwang8's Prompt Generator](https://rexwang8.github.io/resource/ai/generator)<br>
 :small_orange_diamond: [AI Text Prompt Generator](https://aitextpromptgenerator.com/)<br>
 :small_orange_diamond: [Promptomania's Prompt Builder](https://promptomania.com/prompt-builder/)<br>
+:small_orange_diamond: [Grammarly for Prompts (Chrome Extension)](https://write-ai-art-prompts.com/)<br>
 :small_blue_diamond: GTA V cover character : `[subject] in GTA V, cover art by Stephen Bliss, artstation`<br>
 :small_blue_diamond: Quick photorealism (NOP#1337) : `[prompt], Canon EOS R3, f/1.4, ISO 200, 1/160s, 8K, RAW, unedited, symmetrical balance, in-frame`<br>
 :small_blue_diamond: Age changer (richservo#8465) : `DSLR photo portrait still of [age] year old age [age] [person] at age [age]!!!, 85mm f1.8`<br>
