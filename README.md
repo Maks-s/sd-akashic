@@ -92,19 +92,31 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Animation](https://replicate.com/andreasjansson/stable-diffusion-animation)<br>
 :small_blue_diamond: [AUTOMATIC1111's SD Web UI repository](https://github.com/AUTOMATIC1111/stable-diffusion-webui), includes colab link<br>
 :small_blue_diamond: [SD back-ported to OpenAI guided diffusion codebase](https://github.com/Jack000/glid-3-xl-stable)<br>
-:small_blue_diamond: [Krita SD Plugin](https://www.flyingdog.de/sd/en/)<br>
 :small_blue_diamond: [Richservo's SD GUI](https://github.com/richservo/StableDiffusionGUI)<br>
-:small_blue_diamond: [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion)<br>
 :small_blue_diamond: [Dreambooth on SD](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion)<br>
 :small_blue_diamond: [NMKD SD GUI](https://nmkd.itch.io/t2i-gui)<br>
 :small_blue_diamond: [Tileable Texture Generator](https://replicate.com/tommoore515/material_stable_diffusion)<br>
-:small_blue_diamond: [Blender Texture Plugin](https://github.com/jamestiotio/solvent)<br>
 :small_blue_diamond: [SD Morphing between images](https://colab.research.google.com/github/sugyan/stable-diffusion-morphing/blob/main/stable_diffusion_morphing.ipynb) and [its explanation](https://memo.sugyan.com/entry/2022/09/07/190000) (in JP)<br>
-:small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
 :small_blue_diamond: [Stable Diffusion UI v2](https://github.com/cmdr2/stable-diffusion-ui) - A simple 1-click way to install and use SD on your own computer<br>
 :small_blue_diamond: [Find the most important modifiers in your prompt](https://colab.research.google.com/drive/1VL9LhoU8PWd5t1rRj71-TE5vhHjgzgmw) - A tool that helps you rank modifiers in your prompt using similarity scores.<br>
 :small_blue_diamond: [Diffusion-UI](https://github.com/leszekhanusz/diffusion-ui) - A responsive frontend for easy inpainting working with multiple backends including AUTOMATIC1111 and the [Stable Horde](https://stablehorde.net/) online cluster.<br>
+
+### Plugins
+:small_blue_diamond: [Krita SD Plugin](https://www.flyingdog.de/sd/en/)<br>
 :small_blue_diamond: [auto-sd-krita](https://github.com/interpause/auto-sd-krita) - Krita plugin built on top of AUTOMATIC1111's fork with an optimized focus inpainting workflow supporting multiple models, useful for advanced multi-character composition.<br>
+:small_blue_diamond: [Krita Stable Diffusion](https://github.com/w4ffl35/krita_stable_diffusion) <br>
+:small_blue_diamond: [Blender Texture Plugin](https://github.com/jamestiotio/solvent)<br>
+:small_blue_diamond: [CEB Stable Diffusion](https://carlosedubarreto.gumroad.com/l/ceb_sd) - Blender Plugin. <br>
+
+### Checkpoints and Embeddings
+Note that running arbitrary untrusted .ckpt and .pt files are not advised as they may be malicious. 
+
+:small_blue_diamond: [Stable Diffusion v1.4](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)<br>
+:small_blue_diamond: [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion), ([Model v1.3](https://huggingface.co/hakurei/waifu-diffusion)) <br>
+:small_blue_diamond: [Robo-diffusion](https://github.com/nousr/robo-diffusion) ([Model](https://huggingface.co/nousr/robo-diffusion/tree/main/models)) <br>
+:small_blue_diamond: [Pokemon SD](https://huggingface.co/lambdalabs/sd-pokemon-diffusers) ([Model](https://huggingface.co/justinpinkney/pokemon-stable-diffusion/tree/main)) <br>
+:small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
+:small_blue_diamond: [SD Textual Inversion Embedding](https://cyberes.github.io/stable-diffusion-textual-inversion-models/) - based off the previous link. Can be used in conjunction with [embedding-to-png](https://github.com/dfaker/embedding-to-png-script) to create shareable TI embeddings. (Using .png rather than .pt is safer for sharing as .pt files can potentially be malicious.)
 
 ## Studies [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 A study is the same seed with slightly different prompts / modifiers. It's mainly used to understand the impact of a word/modifier on the final result. It **must** contains the resulting images
