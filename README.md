@@ -63,6 +63,8 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Seed Editing](https://github.com/Maks-s/sd-akashic/blob/master/guides/richservo-seed-guide.md)<br>
 :small_blue_diamond: [SD Guide for artists and non-artists](https://docs.google.com/document/d/1R2UZi5G-DXiz2HcCrfAFLYJoer_JPDEoZmV7wy1tEz0/edit)<br>
 :small_blue_diamond: [Understanding SD through teapots](https://rexwang8.github.io/resource/ai/teapot)<br>
+:small_blue_diamond: [Beginner/Intermediate Guide to Getting Cool Images from Stable Diffusion](https://www.reddit.com/r/StableDiffusion/comments/x41n87/how_to_get_images_that_dont_suck_a/) <br>
+:small_blue_diamond: [CDCruz's SD Guide](https://stablediffusion.cdcruz.com/index.html) <br>
 :small_blue_diamond: [DreamStudio Tips&Tricks](https://docs.google.com/document/d/1p3xrhfFhe9FPqxMj0gJRCBctO1FBNeAcahkxd42q2v8/edit)<br>
 :small_blue_diamond: [SD Windows Installation Guide](https://rentry.org/SDInstallation)<br>
 :small_blue_diamond: [SD Installation Guide for LStein and Basujindal forks](https://docs.google.com/document/d/1owAMJGe56sbocCdrv7IO8fM6I4NLqxZ2bJgfI7EsYAw/edit)<br>
@@ -84,7 +86,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD on Colab](https://colab.research.google.com/drive/1yf3-bUhTcfxRmAphJHVQQAD2ArYO1CRZ) (Collection of colabs)<br>
 :small_blue_diamond: [Optimized SD repository](https://github.com/basujindal/stable-diffusion)<br>
 :small_blue_diamond: [Dezgo](https://dezgo.com/)<br>
-:small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)<br>
+:small_blue_diamond: [Deforum SD](https://colab.research.google.com/github/deforum/stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb) - Deforum's animation capabilities may also be accessed through Automatic1111's Web UI with [script](https://github.com/deforum-art/deforum-for-automatic1111-webui).<br>
 :small_blue_diamond: [SD on CPU repository](https://github.com/bes-dev/stable_diffusion.openvino)<br>
 :small_blue_diamond: [InvokeAI](https://github.com/invoke-ai/InvokeAI) (formerly lstein/stable-diffusion), lots of shiny new features<br>
 :small_blue_diamond: [SD Docker w/ JupyterLab](https://github.com/pieroit/stable-diffusion-jupyterlab-docker/)<br>
@@ -107,6 +109,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Krita Stable Diffusion](https://github.com/w4ffl35/krita_stable_diffusion) <br>
 :small_blue_diamond: [Blender Texture Plugin](https://github.com/jamestiotio/solvent)<br>
 :small_blue_diamond: [CEB Stable Diffusion](https://carlosedubarreto.gumroad.com/l/ceb_sd) - Blender Plugin. <br>
+:small_blue_diamond: [GIMP SD](https://github.com/blueturtleai/gimp-stable-diffusion) <br>
 
 ### Checkpoints and Embeddings
 Note that running arbitrary untrusted .ckpt and .pt files are not advised as they may be malicious. 
@@ -115,6 +118,8 @@ Note that running arbitrary untrusted .ckpt and .pt files are not advised as the
 :small_blue_diamond: [Waifu Diffusion](https://github.com/harubaru/waifu-diffusion), ([Model v1.3](https://huggingface.co/hakurei/waifu-diffusion)) <br>
 :small_blue_diamond: [Robo-diffusion](https://github.com/nousr/robo-diffusion) ([Model](https://huggingface.co/nousr/robo-diffusion/tree/main/models)) <br>
 :small_blue_diamond: [Pokemon SD](https://huggingface.co/lambdalabs/sd-pokemon-diffusers) ([Model](https://huggingface.co/justinpinkney/pokemon-stable-diffusion/tree/main)) <br>
+:small_blue_diamond: [Stable Diffusion Models](https://rentry.org/sdmodels) (NSFW) <br>
+:small_blue_diamond: Public prompt's Dreambooth model - [Pixel Art](https://publicprompts.art/pixel-art-v1-dreambooth-model/), [App Icons](https://publicprompts.art/app-icons-generator-v1-dreambooth-model/) <br>
 :small_blue_diamond: [Concepts Library](https://huggingface.co/sd-concepts-library)<br>
 :small_blue_diamond: [SD Textual Inversion Embedding](https://cyberes.github.io/stable-diffusion-textual-inversion-models/) - based off the previous link. Can be used in conjunction with [embedding-to-png](https://github.com/dfaker/embedding-to-png-script) to create shareable TI embeddings. (Using .png rather than .pt is safer for sharing as .pt files can potentially be malicious.)
 
@@ -154,8 +159,8 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 ### Other
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
 :small_blue_diamond: [Stable Diffusion Prompt Weighting study](https://drive.google.com/file/d/111p6ObWFFKo1aZbuiIyGRZI4fBMHtN6s/view)<br>
-:small_blue_diamond: [160 celebrities study](https://docs.google.com/spreadsheets/u/0/d/1IqXkYDXux97aU8Y5kqqBrBvCn3CLRDhMZ7lEWsAtwUc/htmlview)<br>
-:small_blue_diamond: [One Hundred TV shows study](https://jalonso.notion.site/Stable-Diffusion-One-hundred-TV-shows-e490780c49724cee987cd6bf89b37c4c)<br>
+:small_blue_diamond: [160 celebrities study](https://docs.google.com/spreadsheets/u/0/d/1IqXkYDXux97aU8Y5kqqBrBvCn3CLRDhMZ7lEWsAtwUc/htmlview) (@ercarp_) <br>
+:small_blue_diamond: [One Hundred TV shows study](https://jalonso.notion.site/Stable-Diffusion-One-hundred-TV-shows-e490780c49724cee987cd6bf89b37c4c) (kokuma#7604) <br>
 :small_blue_diamond: [Film studies](https://artblind.notion.site/artblind/3e50796fe6904048981156436145d501)<br>
 :small_blue_diamond: [Punctuation study](https://arkitecc-prompt-study.notion.site/adecfbad9c7c49ddb0eba8795d96efd4)<br>
 :small_blue_diamond: [Secondary artist study](https://www.youtube.com/watch?v=-P15nYxRQJg)<br>
@@ -178,6 +183,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 
 :small_blue_diamond: [Artists, Keywords, Art styles known to work with text to image](https://docs.google.com/document/d/1SaQx1uJ9LBRS7c6OsZIaeanJGkUdsUBjk9X4dC59BaA/edit)<br>
 :small_blue_diamond: [Stable Diffusion prompting cheatsheet](https://moritz.pm/posts/parameters)<br>
+:small_blue_diamond: [Magicprompt](https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion) <br>
 :small_orange_diamond: [Offhand's Disco Diffusion Prompt Keywords](https://docs.google.com/spreadsheets/d/1j7zaDi_PkndizQ2pL8B_yMcwfKUdE6tSMhL31bYtJNs/htmlview)
 
 ## Misc [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
@@ -198,7 +204,11 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_orange_diamond: SD's Dataset search : [CLIP retrieval](https://rom1504.github.io/clip-retrieval/)<br>
 :small_orange_diamond: [Tools and Resources for AI Art](https://pharmapsychotic.com/tools.html)<br>
 :small_orange_diamond: [3D Photo Inpainting Colab](https://colab.research.google.com/drive/1qaXo3D1-ta_bs7Ug9Aihb4XO9XjjaFj7)<br>
+:small_orange_diamond: [Upscale Wiki Model Database](https://upscale.wiki/wiki/Model_Database) - 
+Upscalers are not exclusive to stable diffusion. However, their use is widespread, increasing the resolution of generated art. <br>
+:small_orange_diamond: [Definitive Comparison to Upscalers](https://www.reddit.com/r/StableDiffusion/comments/y2mrc2/the_definitive_comparison_to_upscalers/) (u/Locke_Moghan) <br>
 :small_red_triangle: [Camera distance terms](https://github.com/Maks-s/sd-akashic/blob/master/img/camera-distance-terms.jpg)<br>
+
 
 ## Prompts [<sup><sup>[ToC]</sup></sup>](#notebook_with_decorative_cover-table-of-contents)
 Here's a list of quick prompts to get you started in the world of Stable Diffusion
