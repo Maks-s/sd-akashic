@@ -102,6 +102,8 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [Stable Diffusion UI v2](https://github.com/cmdr2/stable-diffusion-ui) - A simple 1-click way to install and use SD on your own computer<br>
 :small_blue_diamond: [Find the most important modifiers in your prompt](https://colab.research.google.com/drive/1VL9LhoU8PWd5t1rRj71-TE5vhHjgzgmw) - A tool that helps you rank modifiers in your prompt using similarity scores.<br>
 :small_blue_diamond: [Diffusion-UI](https://github.com/leszekhanusz/diffusion-ui) - A responsive frontend for easy inpainting working with multiple backends including AUTOMATIC1111 and the [Stable Horde](https://stablehorde.net/) online cluster.<br>
+:small_blue_diamond: [Synesthetic](https://synesthetic.ai) - A prompt search engine and generator focused on remixing<br>
+
 
 ### Plugins
 :small_blue_diamond: [Krita SD Plugin](https://www.flyingdog.de/sd/en/)<br>
