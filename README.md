@@ -73,6 +73,7 @@ Ultimate Beginner’s Guide](https://docs.google.com/document/d/1sgXAnFMEfx-I_Ha
 :small_blue_diamond: [SD Training Guide](https://rentry.org/Stable-Diffusion-Training)<br>
 :small_blue_diamond: [List of SD systems](https://www.reddit.com/r/StableDiffusion/comments/wqaizj/list_of_stable_diffusion_systems/)<br>
 :small_blue_diamond: [r/StableDiffusion wiki](https://www.reddit.com/r/StableDiffusion/wiki/index/)<br>
+:small_blue_diamond: [Improve 3D renders with SD](dev.to/rafaelcastrocouto/improving-old-3d-renders-with-ai-and-sd-jpc)<br>
 :small_orange_diamond: [The DALLE-2 Prompt Book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf)<br>
 
 ### Colabs / Repos / Websites to use SD
