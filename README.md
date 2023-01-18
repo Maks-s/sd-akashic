@@ -157,7 +157,7 @@ A study is the same seed with slightly different prompts / modifiers. It's mainl
 :small_blue_diamond: ["Trending on Artstation" and other myths](https://medium.com/@soapsudtycoon/stable-diffusion-trending-on-art-station-and-other-myths-c09b09084e33)<br>
 :small_blue_diamond: ["Trending on Artstation" and other myths (part 2)](https://medium.com/@soapsudtycoon/prompt-engineering-trending-on-artstation-and-other-myths-part-2-d61e25a90517)<br>
 :small_blue_diamond: [Test of seeds, clothing, and clothing modifications](https://www.reddit.com/r/StableDiffusion/comments/x286d5/a_test_of_seeds_clothing_and_clothing/)<br>
-:small_blue_diamond: [Wonderflex's photography terms studies](https://www.reddit.com/r/StableDiffusion/comments/x286d5/a_test_of_seeds_clothing_and_clothing/)<br>
+:small_blue_diamond: [Wonderflex's photography terms studies](https://www.reddit.com/r/StableDiffusion/comments/x8i5co/a_test_of_photography_related_terms_on_kim/)<br>
 
 ### Other
 :small_blue_diamond: [Multilingual capabilities study](https://jalonso.notion.site/Stable-Diffusion-Language-Comprehension-5209abc77a4f4f999ec6c9b4a48a9ca2)<br>
